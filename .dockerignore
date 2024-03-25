@@ -1,0 +1,5 @@
+#Para ingnorar archivos al momento de la construccion
+dist/
+node_modules/
+.env
+.vscode/
